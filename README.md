@@ -2,4 +2,4 @@
 
 in this project you can find crud operation with native query 
 
-wwe have created four methods here insert,update,delete,display
+we have created four methods here insert,update,delete,display
